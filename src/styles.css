@@ -89,6 +89,7 @@ p {
 @media (max-width: 500px) {
   body {
     text-align: center;
+    margin: 10px auto;
   }
   h1 {
     font-size: 58px;
